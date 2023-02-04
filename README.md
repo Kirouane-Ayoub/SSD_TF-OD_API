@@ -1,5 +1,6 @@
 # Train SSD model with Tensorflow Object Detection API : 
 
+![Networks-of-a-Single-shot-Multibox-Detector-SSD-and-b-Multiheaded-Attention-Net](https://user-images.githubusercontent.com/99510125/216768756-f3cfe3d3-6f44-449b-b555-ac7a22563ba8.png)
 
 To train an SSD (Single Shot MultiBox Detector) model, you will need to follow these general steps:
 
@@ -14,8 +15,6 @@ It is important to note that training a deep learning model like SSD can be comp
 And you should also take care of the preprocessing steps, such as resizing, normalizing and cropping images, and creating anchor boxes.
 
 Additionally, you can use several libraries and frameworks, such as TensorFlow, Keras, PyTorch, etc, to help you implementing the process.
-
-![Networks-of-a-Single-shot-Multibox-Detector-SSD-and-b-Multiheaded-Attention-Net](https://user-images.githubusercontent.com/99510125/216768756-f3cfe3d3-6f44-449b-b555-ac7a22563ba8.png)
 
 
 TensorFlow Object Detection API : 
