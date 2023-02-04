@@ -15,13 +15,13 @@ And you should also take care of the preprocessing steps, such as resizing, norm
 
 Additionally, you can use several libraries and frameworks, such as TensorFlow, Keras, PyTorch, etc, to help you implementing the process.
 
+![Networks-of-a-Single-shot-Multibox-Detector-SSD-and-b-Multiheaded-Attention-Net](https://user-images.githubusercontent.com/99510125/216768756-f3cfe3d3-6f44-449b-b555-ac7a22563ba8.png)
+
+
 TensorFlow Object Detection API : 
 
 TensorFlow Object Detection API is a framework for building object detection models using TensorFlow. It provides a collection of pre-trained detection models on the COCO, Kitti, and Open Images datasets. These models can be used for various tasks, such as object detection in images and videos, and can be fine-tuned for specific tasks using transfer learning. The API also includes tools for evaluating and optimizing object detection models, as well as for training new models on custom datasets.
 
-You can see more here : 
+You can see more here : https://www.linkedin.com/pulse/single-shot-multibox-detector-ssd-ayoub-kirouane
 
-
-
-![1200px-Detected-with-YOLO--Schreibtisch-mit-Objekten](https://user-images.githubusercontent.com/99510125/212444154-99469f14-890a-4470-887f-59e275eddbc4.jpg)
 
